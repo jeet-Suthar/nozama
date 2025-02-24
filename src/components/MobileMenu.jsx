@@ -19,7 +19,7 @@ function MobileMenu({ menuOpen, setMenuOpen }) {
       >
         <button
           onClick={() => setMenuOpen(false)}
-          className="absolute top-6 right-6 text-while text-4xl focus:outline-none cursor-pointer "
+          className="absolute top-6 right-6 text-white   text-4xl focus:outline-none cursor-pointer "
         >
           &times;
         </button>

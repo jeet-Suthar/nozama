@@ -24,7 +24,7 @@ function NavBar({ menuOpen, setMenuOpen, setSearchQuery }) {
 
   return (
     <>
-      <nav className="fixed top-0 w-full z-50 bg-[rgba(22,21,46,0.7)] backdrop-blur-lg border-b border-white/10 shadow-lg">
+      <nav className="fixed top-0 w-full z-45 bg-[rgba(22,21,46,0.7)] backdrop-blur-lg border-b border-white/10 shadow-lg">
         <div className="max-w-5xl mx-auto px-4 md:px-8">
           <div className="flex justify-between items-center h-16">
             <Link className="text-xl font-bold" to="/">
