@@ -2,6 +2,8 @@
 
 Nozama is a modern e-commerce web application built with **React** and **Tailwind CSS**. It provides a smooth shopping experience with features like product listings, a shopping cart, and an interactive UI.  
 
+
+**URL:** https://nozama-chi.vercel.app/
 ---
 
 ## 🚀 Features  
