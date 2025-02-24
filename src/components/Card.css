@@ -1,0 +1,19 @@
+.card{
+    background-color: 4px 4px 15px 0px #413f3f;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    /* text-align: center; */
+    box-shadow: 4px 4px 15px 0px #413f3f;
+}
+.card h2{
+    color: rgb(199, 199, 199);
+}
+.card img{
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: #444444;
+}
